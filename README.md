@@ -54,11 +54,11 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
-[A challenge I ran into when creating the game, was the attributes being added into different openning tags. I wasn't sure about the formalities of writing code in HTML so initially I put it in the front in the middle or the back of the openning and closing tag. But when comparing my code to the given code, It does makes sense as to why the ID attribute goes first. Being unsure of my way, I went to google to see how I would add attributes to class element and it was easier than I thought it would be. Also, another challenge i ran into was code formatting. For example, when I was learning Java in school, I was taught to always leave spaces after each word typed for better visibility. But in Web Development the compiler doesn't allow for spaces after each word typed.]
+[A challenge I ran into when creating the game was the attributes being added into different opening tags. I wasn't sure about the formalities of writing code in HTML so initially I put it in the front in the middle or the back of the opening and closing tag. But when comparing my code to the given code, It does make sense as to why the ID attribute goes first. Being unsure of my way, I went to google to see how I would add attributes to class elements and it was easier than I thought it would be. Also, another challenge I ran into was code formatting. For example, when I was learning Java in school, I was taught to always leave spaces after each word typed for better visibility. But in Web Development the compiler doesn't allow for spaces after each word typed. Another challenge I ran into was writing the if/else conditionals. I tried writing it on my own without referring to the given model, I got the first few then I just totally struggled with it and couldn’t seem to get it. After going through each line of the model it did make sense overall as to the variables the parameters were referencing to and what to do after each parameter was either passed or failed.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)  
 
-[In Web development, are we always going to be using Javascript, HTML, and CSS? Are there any other languages that could be used in web developement? Does object oriented program languages have any correlation to web development? Why do these languages not allow for spaces after each word written? I don't have many questions, I am ready to learn.]
+[In Web development, are we always going to be using Javascript, HTML, and CSS? Are there any other languages that could be used in web development? Does object oriented program languages have any correlation to web development? Referring to the syntax,Why do these languages not allow for spaces after each word written? How does backend development help with frontend development? Is web development and software engineering similar on the macro scale? Can you use JS, HTML, and CSS in other aspects other than web development? Are we able to use one language as opposed to all the other three or are all three necessary in web development?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
@@ -68,12 +68,12 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/N2rDImTyv18)
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Joneth Damdee]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
