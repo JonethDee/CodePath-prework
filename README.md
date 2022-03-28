@@ -53,12 +53,15 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [https://www.w3schools.com/tags/att_input_type_hidden.asp]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 [A challenge I ran into when creating the game, was the attributes being added into different openning tags. I wasn't sure about the formalities of writing code in HTML so initially I put it in the front in the middle or the back of the openning and closing tag. But when comparing my code to the given code, It does makes sense as to why the ID attribute goes first. Being unsure of my way, I went to google to see how I would add attributes to class element and it was easier than I thought it would be. Also, another challenge i ran into was code formatting. For example, when I was learning Java in school, I was taught to always leave spaces after each word typed for better visibility. But in Web Development the compiler doesn't allow for spaces after each word typed.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)  
+
 [In Web development, are we always going to be using Javascript, HTML, and CSS? Are there any other languages that could be used in web developement? Does object oriented program languages have any correlation to web development? Why do these languages not allow for spaces after each word written? I don't have many questions, I am ready to learn.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 [I would add different levels starting from easy, medium and then hard. If all three levels were easy, I would add an expert level to play the sequence but in reverse order. I would also change how each button looks, adding more designs to them if possible. Another effect I would add is; if the player were to win the game I would implement some sort of celebratory sound. Within winning the game I would also add an effect that makes all the squares blink their color. Along with failing the game I would also add a sound indicating that the player has lost the game. With the alerts popping up, I would make the sound play at the same time. ]
 
 
